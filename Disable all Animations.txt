@@ -1,0 +1,6 @@
+Disabling all animations could be a solution if your programs are slow to open. Here's how you do it :
+1. Click the start menu, right click My Computer -> Properties.
+2. At the left pane, click on Advanced system settings.
+3. Now, in the Performances box, click Settings.
+4. Disable all animations you don't want.
+5. Click Apply, close everything then done!

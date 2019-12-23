@@ -1,0 +1,2 @@
+1. You should NOT disable the Aero theme. It loads itself into the GPU so your CPU usage will be obviously lower and so your PC faster.
+2. You should NOT disable services that are unknown to you. You should prefer search on the internet what the service(s) you want to disable do(es).

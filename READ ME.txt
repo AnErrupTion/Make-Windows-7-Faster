@@ -1,0 +1,6 @@
+So recently I've been bored so I've decided to make this pack that contains multiple methods to speed up Windows 7 on low-end PCs.
+Disable Useless Services - Pretty much self-explanatory, it disables useless services so Windows 7 can run faster.
+Junk Cleaner - Again, self-explanatory. It deletes temporary files that Windows 7 don't need so it can run a bit faster.
+Speed up Windows 7 - This will edit the registry to make Windows 7 faster in general.
+Tips - Just some tips to also make Windows 7 a bit faster.
+Disable all Animations - Tutorial to disable all Windows 7 animations so it can run faster.
